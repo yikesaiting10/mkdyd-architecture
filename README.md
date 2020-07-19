@@ -10,7 +10,7 @@
 ```
 
 ### 系统主要架构 
-[!avatar](img/mkdyd.png)
+![avatar](img/mkdyd.png)
 
 ### 未完待续...   
 -实现响应http请求  
