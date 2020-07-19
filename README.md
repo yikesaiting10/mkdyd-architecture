@@ -10,7 +10,7 @@
 ```
 
 ### 系统主要架构 
-[!avatar](/img/mkdyd.png)
+[!avatar](img/mkdyd.png)
 
 ### 一些用得到的linux命令  
 vim查找字符串：/keyword
