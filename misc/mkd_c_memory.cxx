@@ -13,12 +13,12 @@ CMemory *CMemory::m_instance = NULL;
 //ifmemset：是否要把分配的内存初始化为0；
 void *CMemory::AllocMemory(int memCount,bool ifmemset)
 {	    
-	void *tmpData = (void *)new char[memCount]; 
+    void *tmpData = (void *)new char[memCount]; 
     if(ifmemset) //要求内存清0
     {
 	    memset(tmpData,0,memCount);
     }
-	return tmpData;
+    return tmpData;
 }
 
 //内存释放函数
